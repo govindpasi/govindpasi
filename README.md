@@ -72,7 +72,7 @@
 ###
 
 <div align="left">
-  <a href="https://govindpasi.github.io" target="_blank">
+  <a href="https://govindpasi.github.io/" target="_blank">
     My portfolio
   </a>
 </div>
